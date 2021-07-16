@@ -1,4 +1,9 @@
 # DyCause
+This repository is the source code of our paper "Faster, Deeper, Easier: Crowdsourcing Diagnosis of Microservice Kernel Failure from User Space" at ISSTA'2021.
+
+ACM Reference Format:
+> Yicheng Pan, Meng Ma, Xinrui Jiang, and Ping Wang. 2021. Faster, Deeper, Easier: Crowdsourcing Diagnosis of Microservice Kernel Failure from User
+Space. In Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’21), July 11–17, 2021, Virtual, Denmark. ACM, NewYork,NY, USA, 12 pages. https://doi.org/10.1145/3460319.3464805
 ## Getting Started
 ### Requirements
 DyCause is written in Python 3.7.5. The dependencies are listed in `environment.yaml`. We recommand using `anaconda` to create an environment for testing DyCause. In current directory, run `conda env create --file environment.yaml -n dycauseenv`
